@@ -10,7 +10,7 @@
 # 快速上手
 ## 一、准备工作
 ### 1. 安装 Python
-主页构建器所需 Python 版本为 3.9+
+主页构建器推荐版本 Python 版本为 3.11+ 最低版本 Python 版本为 3.9+
 
 ### 2. 下载 HomepageBuilder 源码
 你可以通过 GitHub Releases 或 Git Clone 下载构建器的源码 
