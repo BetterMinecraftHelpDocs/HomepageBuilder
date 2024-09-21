@@ -35,7 +35,10 @@ pip3 install -r server_requirements.txt
 python3 <构建器main.py的绝对路径> build <工程文件夹下Project.yml文件的绝对路径> <主页生成文件的绝对路径>
 ```
 >[!IMPORTANT]
->如果Python3命令开头无法运行 尝试将Python3改为Python
+>如果Python3命令开头无法运行
+>
+>尝试将Python3改为Python
+>
 >主页生成文件的绝对路径例子：C:\Users\Administrator\Desktop\PCL\（Custom.xaml）如例子所见 需要带有文件名和.xaml
 
 
