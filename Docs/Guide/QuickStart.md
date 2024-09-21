@@ -34,10 +34,11 @@ pip3 install -r server_requirements.txt
 ```bash
 python3 <构建器main.py的绝对路径> build <工程文件夹下Project.yml文件的绝对路径> <主页生成文件的绝对路径>
 ```
+>[!IMPORTANT]
+>如果Python3命令开头无法运行 尝试将Python3改为Python
+>主页生成文件的绝对路径例子：C:\Users\Administrator\Desktop\PCL\（Custom.xaml）如例子所见 需要带有文件名和.xaml
 
-主页生成文件的绝对路径是你主页文件放在那里，一般是 PCL 可执行文件所在目录的 PCL 文件夹内的 Custom.xaml
 
 ### 3. 启动 PCL 查看主页
 若你生成于PCL文件夹的 Custom.xaml，这时启动 PCL，将自定义主页选择本地文件，就可以看到主页啦！
 
-## 三、添加卡片
